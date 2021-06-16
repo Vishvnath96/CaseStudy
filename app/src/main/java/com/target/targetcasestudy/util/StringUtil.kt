@@ -1,12 +1,9 @@
-package com.target.targetcasestudy.util;
+package com.target.targetcasestudy.util
 
-public class StringUtil {
-
-
-    public static boolean isNullOrEmpty(final String str) {
-        if (str == null) {
-            return true;
-        }
-        return "".equals(str.trim());
+object StringUtil {
+    fun isNullOrEmpty(str: String?): Boolean {
+        return if (str == null) {
+            true
+        } else "" == str.trim { it <= ' ' }
     }
 }
