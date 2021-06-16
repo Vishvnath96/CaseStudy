@@ -1,5 +1,7 @@
 # Android Case Study
 
+**Solution:**
+
 **Video Demonstration for case study:**
  this video link is after doing changes required from my (Vishvnath) side
 https://drive.google.com/file/d/1-qtSz5MUKJqWmIkv_M3RPCpgLz7bEvMc/view?usp=sharing
@@ -10,7 +12,7 @@ https://drive.google.com/file/d/1-qtSz5MUKJqWmIkv_M3RPCpgLz7bEvMc/view?usp=shari
 
 
 <--------------------------------------------------------------------------------------------------------->
-
+**Problem Statement:**
 You have been given control over an Android project that was originally a proof-of-concept project.
 The original developer of the project has since moved on to a new team, and Target has asked you to
 turn the project into an application that the company could release to the public.
